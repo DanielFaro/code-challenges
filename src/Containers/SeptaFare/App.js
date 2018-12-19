@@ -22,7 +22,6 @@ class App extends Component {
     this.updatePurchaseLocation = this.updatePurchaseLocation.bind(this);
     this.onChooseTime = this.onChooseTime.bind(this);
     this.updateRideNumber = this.updateRideNumber.bind(this);
-   // this.onFormSubmit = this.onFormSubmit.bind(this);
   }
 
   componentDidMount() {
